@@ -1,8 +1,7 @@
-# SDV - Clone Projct of the MIT Synthetic Data Vault
+# SDV - Clone Project of the MIT Synthetic Data Vault for AFMS Analytics
 
 Original Paper
 https://hdi-dai.lids.mit.edu/projects/synthetic-data-vault/
-
 Borrowed Python Code
 https://github.com/ewvanwinkle/SyntheticDataVault
 
@@ -25,7 +24,7 @@ It is an end-to-end system that models and synthesizes data automatically such t
 
 ## Workflow
 
-![Workflow](images/workflow.png?raw=true "workflow")
+![Workflow](images/workflow.PNG?raw=true "workflow")
 
 The user collects and formats the data, specifies the structure and data types, runs the modeling system, and then uses the learned model
 to synthesize new data.
