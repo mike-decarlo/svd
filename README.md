@@ -1,2 +1,1 @@
-# svd
-Synthetic Data Vault
+# SDV
