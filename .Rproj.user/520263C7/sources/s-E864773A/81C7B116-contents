@@ -1,9 +1,7 @@
 # SDV - Clone Project of the MIT Synthetic Data Vault for AFMS Analytics
 
-Original Paper
-https://hdi-dai.lids.mit.edu/projects/synthetic-data-vault/
-Borrowed Python Code
-https://github.com/ewvanwinkle/SyntheticDataVault
+* Original Paper https://hdi-dai.lids.mit.edu/projects/synthetic-data-vault/
+* Borrowed Python Code https://github.com/ewvanwinkle/SyntheticDataVault
 
 
 ![SDV](images/SDVlogo.png?raw=true "SDV")
